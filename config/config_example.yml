@@ -1,0 +1,8 @@
+phone_number: "your-phone-number"
+password: "your-password"
+group_id: "your-group-id"
+root_path: "./"
+sessions: {
+  path: "./sessions",
+  max: 5
+}
